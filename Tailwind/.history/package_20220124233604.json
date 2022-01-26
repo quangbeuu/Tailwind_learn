@@ -1,0 +1,19 @@
+{
+  "name": "Tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "css": "^3.0.0",
+    "post": "0.0.1",
+    "tailwindcss": "^3.0.16",
+    "vite": "^2.7.13"
+  }
+}
